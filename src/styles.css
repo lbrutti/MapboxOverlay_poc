@@ -1,0 +1,19 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+* {
+  box-sizing: border-box;
+}
+
+.MenuArea {
+  width: 8%;
+  float: left;
+}
+.MapArea {
+  width: 92%;
+  float: left;
+}

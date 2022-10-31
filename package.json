@@ -1,0 +1,43 @@
+{
+  "name": "maplibre-basecontrolsdeckgl-mapboxoverlay-try",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/react": "11.9.3",
+    "@emotion/styled": "11.9.3",
+    "@loaders.gl/json": "3.2.6",
+    "@maplibre/maplibre-gl-geocoder": "1.3.1",
+    "@material-ui/core": "4.12.4",
+    "@mui/material": "5.8.7",
+    "axios": "0.27.2",
+    "deck.gl": "8.8.4",
+    "loaders.gl": "0.3.5",
+    "mapbox-gl": "2.9.1",
+    "maplibre-gl": "2.1.9",
+    "material-ui": "0.20.2",
+    "react": "18.2.0",
+    "react-app-rewired": "2.2.1",
+    "react-dom": "18.2.0",
+    "react-icons": "4.4.0",
+    "react-map-gl": "7.0.16",
+    "react-scripts": "3.4.3",
+    "reaviz": "13.1.6"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
